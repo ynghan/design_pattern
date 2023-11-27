@@ -1,7 +1,7 @@
 package ObserverPattern;
 
-import hf.dp.Observer.Observer;
-import hf.dp.Observer.Subject;
+import d.Observer.Observer;
+import d.Observer.Subject;
 
 public class ConcreteSubject implements Subject {
 

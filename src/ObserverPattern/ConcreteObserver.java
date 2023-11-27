@@ -1,6 +1,6 @@
 package ObserverPattern;
 
-import hf.dp.Observer.Observer;
+import d.Observer.Observer;
 
 public class ConcreteObserver implements Observer {
 
