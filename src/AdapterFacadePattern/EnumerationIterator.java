@@ -4,10 +4,6 @@ package AdapterFacadePattern;
 import java.util.Enumeration;
 import java.util.Iterator;
 
-/**
- * Enumeration 기능은 Iterator 기능에 
- */
-
 
 public class EnumerationIterator implements Iterator {
   private Enumeration enumeration;
